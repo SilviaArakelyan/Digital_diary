@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Bipolar";
+  src: url("../fonts/bipolar-regular.woff2") format("woff2")
+}
+@font-face {
+  font-family: "SF UI Display";
+  font-weight: bold;
+
+  src: url("../fonts/SF UI Display/SF-UI-Display-Bold.ttf") format("ttf")
+}
+@font-face {
+  font-family: "SF UI Text";
+  font-weight: normal;
+
+  src: url("../fonts/SF UI Text/SF UI Text Regular.ttf") format("ttf")
+}

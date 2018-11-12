@@ -1,0 +1,120 @@
+.article {
+	color: #2B2B2B;
+	background-color: #F9F9F9;
+}
+
+
+.article main {
+	display: flex;
+}
+
+.article-inside {
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+
+	width: 70vh;
+	height: 100vh;
+
+	background-repeat: no-repeat;
+	background-position: 0px -100px;
+	background-size: 100% auto;
+}
+
+.article-inside.dieterrams {
+	background-image: url("../images/1.vision/card/1.png");
+}
+
+.article-inside.baseline {
+	background-image: url("../images/1.vision/card/2.png");
+}
+
+.article-inside.naming {
+	background-image: url("../images/1.vision/card/3.png");
+}
+
+.article-inside.JIT {
+	background-image: url("../images/1.vision/card/4.png");
+}
+
+
+.article-inside.flexfrogs {
+	background-image: url("../images/3.code/card/justify-content/center.png");
+}
+
+.article-inside {
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+
+	width: 70vh;
+	height: 100vh;
+
+	background-repeat: no-repeat;
+	background-position: 0px -100px;
+	background-size: 100% auto;
+}
+
+.content {
+	width: 100%;
+	height: auto;
+	margin-left: 70vh;
+}
+
+.content div {
+	margin: 280px 110px auto 110px;
+
+}
+
+.content h1 {
+	margin-bottom: 12px;
+
+	text-align: left;
+	letter-spacing: -1.77px;
+
+	font-family: "SF UI Display";
+	font-size: 49px;
+  font-weight: bold;
+	line-height: 60px;
+}
+
+.content p {
+	text-align: left;
+	letter-spacing: -0.78px;
+
+	font-family: "SF UI Text";
+	font-size: 16px;
+  font-weight: normal;
+	line-height: 28px;
+}
+
+span {
+	margin: 40px;
+}
+
+.content mark {
+color: #FF0000;
+}
+
+h5 {
+	margin-bottom: 7px;
+
+	letter-spacing: -0.1px;
+
+	color: #3573E2;
+
+	font-family: "SF UI Display";
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.decomposition img {
+	width: 100%;
+	height: 100%;
+
+	background-repeat: no-repeat;
+	background-position: center;
+}
+/*  */
